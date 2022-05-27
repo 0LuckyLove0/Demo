@@ -1,0 +1,11 @@
+body{
+    background-color: cadetblue;
+}
+.title{
+    display: flex;
+    font-size: 87px;
+}
+.context{
+    font-size: 100px;
+    padding: 20px 31px;
+}
